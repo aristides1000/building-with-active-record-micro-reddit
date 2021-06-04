@@ -1,11 +1,11 @@
 ![](https://img.shields.io/badge/-Ruby_on_Rails-rgb(255%2C%2000%2C%2000)?style=plastic&logo=ruby-on-rails)
 
-# Ruby on Rails Project - Blog App
+# Ruby on Rails Project - Micro-Reddit
 
-> The purpose of this project is to consolidate the acquired knowledge of the Ruby on Rails programming language. To do this, we have made the following blog-type application.
+> The purpose of this project is to consolidate the acquired knowledge of the Ruby on Rails programming language. To do this, We have made the following blog-type application trying to clone through the Reverse Engineering of the Reddit portal and we have called it Micro-Reddit.
 ![screenshot](./app_screenshot.png)
 
-This web page was the Capstone project of the Ruby on Rails programming language of the Microverse curriculum.
+This web page was a project of the Ruby on Rails programming language from the Microverse curriculum.
 In this project, I learned the importance of Blog-type applications and MVCs in developing real-world solutions.
 
 ## Built With
