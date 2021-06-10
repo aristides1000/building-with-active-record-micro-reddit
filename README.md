@@ -24,7 +24,7 @@ To get a local copy up and running follow these simple example steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/omar-labana/portfolio.git
+   git clone https://github.com/aristides1000/building-with-active-record-micro-reddit.git
    ```
 2. Install Ruby packages
    ```sh
